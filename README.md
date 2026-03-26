@@ -29,7 +29,7 @@ The Airbnb Clone project is designed to provide users with a familiar experience
 ## Installation
 To run the Airbnb Clone locally, follow these steps:  
 
-1. Clone the repository: git clone https://github.com/Kunalwaldia8/Airbnb-clone.git  
+1. Clone the repository: git clone https://github.com/kalp0703/airbnb-clone.git 
 2. Navigate to the project directory: cd Airbnb-clone  
 3. Install dependencies: npm install --f 
 4. Start the server: node app.js  
