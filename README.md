@@ -2,7 +2,7 @@
 Welcome to the Airbnb Clone project! This project aims to replicate the core functionalities of the popular Airbnb platform, allowing users to search for and book accommodations.  
 
 ## Preview Project :-
-**Deployment Link:** [https://airbnb-clone-jyq0.onrender.com](https://airbnb-clone-jyq0.onrender.com/)
+**Deployment Link:** https://wanderlust-7n6v.onrender.com/listings?
 ## Table of Contents
 [Introduction](Introduction)  
 [Features ](features)   
